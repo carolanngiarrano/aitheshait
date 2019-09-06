@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aefehaphai.brian-ross.net/sitemap.xml
